@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #282c34;
+    color: white;
+}
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #f4f4f9;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.header p {
+    font-size: 18px;
+    color: #ccc;
+}
+
+.social-links {
+    margin-top: 20px;
+}
+
+.social-links a {
+    color: #f4f4f9;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 18px;
+}
+
+.social-links a:hover {
+    color: #61dafb;
+}
+
+.about, .projects {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.about h2, .projects h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #282c34;
+}
+
+.about p, .projects ul {
+    font-size: 18px;
+    color: #666;
+    line-height: 1.6;
+}
+
+.projects ul {
+    list-style: none;
+}
+
+.projects li {
+    margin-bottom: 15px;
+}
+
+.footer {
+    background-color: #282c34;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer p {
+    font-size: 14px;
+}
