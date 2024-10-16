@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Shahoon Freelancingwala - Freelance Portfolio">
+    <title>Shahoon Freelancingwala | Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header class="header">
+        <div class="container">
+            <div class="profile">
+                <img src="profile.png" alt="Shahoon Freelancingwala" class="profile-pic">
+                <h1>Shahoon Freelancingwala</h1>
+                <p>Public Service Announcement Creator | IT Enthusiast | Freelance Consultant</p>
+            </div>
+            <nav class="social-links">
+                <a href="https://www.facebook.com/yourfacebook" target="_blank">Facebook</a>
+                <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">LinkedIn</a>
+                <a href="mailto:youremail@example.com">Email</a>
+            </nav>
+        </div>
+    </header>
+
+    <section class="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>
+                Hi, I’m Shahoon Freelancingwala, passionate about freelancing, helping businesses, and creating Public Service Announcements (PSAs) that make a difference. My goal is to merge creativity with technology, helping others succeed in their ventures. I bring expertise in freelancing platforms and IT solutions.
+            </p>
+        </div>
+    </section>
+
+    <section class="projects">
+        <div class="container">
+            <h2>My Projects</h2>
+            <ul>
+                <li><strong>PSA Campaign:</strong> Created impactful PSAs for health and safety.</li>
+                <li><strong>Thumbnail Design Business:</strong> Freelance work creating thumbnails for YouTubers and businesses.</li>
+                <li><strong>Freelancing Consultancy:</strong> Helping others succeed in the freelancing industry.</li>
+            </ul>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 Shahoon Freelancingwala. All rights reserved.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
